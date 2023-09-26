@@ -1,0 +1,12 @@
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/bin/Debug/net7.0/RentCar.Domain.deps.json
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/bin/Debug/net7.0/RentCar.Domain.dll
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/bin/Debug/net7.0/RentCar.Domain.pdb
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/obj/Debug/net7.0/RentCar.Domain.dll
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/obj/Debug/net7.0/refint/RentCar.Domain.dll
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/obj/Debug/net7.0/RentCar.Domain.pdb
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Domain/obj/Debug/net7.0/ref/RentCar.Domain.dll

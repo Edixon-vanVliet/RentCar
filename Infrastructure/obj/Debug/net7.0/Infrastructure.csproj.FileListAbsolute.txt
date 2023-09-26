@@ -1,0 +1,17 @@
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/bin/Debug/net7.0/RentCar.Infrastructure.deps.json
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/bin/Debug/net7.0/RentCar.Infrastructure.dll
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/bin/Debug/net7.0/RentCar.Infrastructure.pdb
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/bin/Debug/net7.0/RentCar.Application.dll
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/bin/Debug/net7.0/RentCar.Domain.dll
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/bin/Debug/net7.0/RentCar.Application.pdb
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/bin/Debug/net7.0/RentCar.Domain.pdb
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/RentCar.Infrastructure.dll
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/refint/RentCar.Infrastructure.dll
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/RentCar.Infrastructure.pdb
+/Users/Edixon/Library/CloudStorage/OneDrive-Personal/Documents/UNAPEC/Desarrollo de Software con Tecnologia Propietaria/RentCar/src/Infrastructure/obj/Debug/net7.0/ref/RentCar.Infrastructure.dll
