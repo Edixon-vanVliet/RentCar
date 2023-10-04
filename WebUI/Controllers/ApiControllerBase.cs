@@ -1,6 +1,6 @@
-using RentCar.WebUI.Filters;
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using RentCar.WebUI.Filters;
 
 namespace RentCar.WebUI.Controllers;
 

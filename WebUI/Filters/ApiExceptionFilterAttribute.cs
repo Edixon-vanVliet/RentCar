@@ -1,7 +1,6 @@
-using RentCar.Application.Common.Exceptions;
-
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
+using RentCar.Application.Common.Exceptions;
 
 namespace RentCar.WebUI.Filters;
 
