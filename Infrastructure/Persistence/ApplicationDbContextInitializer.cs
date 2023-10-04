@@ -1,15 +1,18 @@
-using RentCar.Infrastructure.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+using RentCar.Infrastructure.Identity;
 
 namespace RentCar.Infrastructure.Persistence;
 
 public class ApplicationDbContextInitializer
 {
     private readonly ILogger<ApplicationDbContextInitializer> _logger;
+
     private readonly ApplicationDbContext _context;
+
     private readonly UserManager<ApplicationUser> _userManager;
+
     private readonly RoleManager<IdentityRole> _roleManager;
 
     public ApplicationDbContextInitializer(ILogger<ApplicationDbContextInitializer> logger, ApplicationDbContext context, UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager)
@@ -73,5 +76,9 @@ public class ApplicationDbContextInitializer
 
         // Default data
         // Seed, if necessary
+        var path = Path.Combine(Environment.CurrentDirectory, "initial-script.sql");
+        var script = File.ReadAllText(path);
+
+        await _context.Database.ExecuteSqlRawAsync(script);
     }
 }
