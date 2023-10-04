@@ -8,6 +8,7 @@ const target = env.ASPNETCORE_HTTPS_PORT
   : "http://localhost:2198";
 
 const context = [
+  "/api/vehicleTypes",
   "/api/fuelTypes",
   "/api/brands",
   "/api/weatherforecast",

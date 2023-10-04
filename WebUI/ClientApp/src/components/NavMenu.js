@@ -51,6 +51,11 @@ export class NavMenu extends Component {
                   Tipos de Combustible
                 </NavLink>
               </NavItem>
+              <NavItem>
+                <NavLink tag={Link} className="text-dark" to="/vehicleTypes">
+                  Tipos de Vehiculo
+                </NavLink>
+              </NavItem>
               <LoginMenu></LoginMenu>
             </ul>
           </Collapse>

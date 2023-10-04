@@ -1,7 +1,8 @@
 import ApiAuthorzationRoutes from "./components/api-authorization/ApiAuthorizationRoutes";
 import { Home } from "./components/Home";
 import { BrandsPage } from "./pages/Brands/BrandsPage";
-import { FuelTypesPage } from "./pages/FuelType.cs/FuelTypesPage";
+import { FuelTypesPage } from "./pages/FuelType/FuelTypesPage";
+import { VehicleTypesPage } from "./pages/VehicleType/VehicleTypesPage";
 
 const AppRoutes = [
   {
@@ -15,6 +16,10 @@ const AppRoutes = [
   {
     path: "/fuelTypes",
     element: <FuelTypesPage />,
+  },
+  {
+    path: "/vehicleTypes",
+    element: <VehicleTypesPage />,
   },
   ...ApiAuthorzationRoutes,
 ];
